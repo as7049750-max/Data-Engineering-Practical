@@ -1,0 +1,5 @@
+user_id: 101
+username: alex_dev
+status: active
+department: 
+timeout_seconds: -30
